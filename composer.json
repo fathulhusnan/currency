@@ -1,0 +1,18 @@
+{
+    "name": "fathulhusnan/currency",
+    "description": "Convert any numeric variable to any currency formatted string",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sirius\\Currency\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fathul Husnan",
+            "email": "fathulhusnan9901@gmail.com"
+        }
+    ],
+    "require": {}
+}
